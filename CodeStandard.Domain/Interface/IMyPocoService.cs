@@ -1,6 +1,6 @@
 ﻿using CodeStandard.Domain.DTO;
 
-namespace CodeStandard.Domain.Services
+namespace CodeStandard.Domain.Interface
 {
     public interface IMyPocoService
     {
